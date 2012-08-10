@@ -1,4 +1,4 @@
-# revision 25096
+# revision 26293
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-documentation-english
 Epoch:		1
-Version:	20120224
+Version:	20120810
 Release:	1
 Summary:	English documentation
 Group:		Publishing
@@ -41,6 +41,7 @@ Requires:	texlive-latex-web-companion
 Requires:	texlive-latex2e-help-texinfo
 Requires:	texlive-latex4wp
 Requires:	texlive-latexcheat
+Requires:	texlive-latexfileinfo-pkgs
 Requires:	texlive-lshort-english
 Requires:	texlive-macros2e
 Requires:	texlive-math-e
