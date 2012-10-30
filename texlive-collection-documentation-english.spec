@@ -1,4 +1,4 @@
-# revision 26293
+# revision 27471
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-documentation-english
 Epoch:		1
-Version:	20120810
+Version:	20121030
 Release:	1
 Summary:	English documentation
 Group:		Publishing
@@ -53,6 +53,7 @@ Requires:	texlive-mil3
 Requires:	texlive-patgen2-tutorial
 Requires:	texlive-pictexsum
 Requires:	texlive-plain-doc
+Requires:	texlive-presentations-en
 Requires:	texlive-pstricks-examples-en
 Requires:	texlive-pstricks-tutorial
 Requires:	texlive-simplified-latex
