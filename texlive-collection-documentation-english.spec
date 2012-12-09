@@ -1,4 +1,4 @@
-# revision 27471
+# revision 26293
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-documentation-english
 Epoch:		1
-Version:	20121030
+Version:	20120810
 Release:	1
 Summary:	English documentation
 Group:		Publishing
@@ -53,7 +53,6 @@ Requires:	texlive-mil3
 Requires:	texlive-patgen2-tutorial
 Requires:	texlive-pictexsum
 Requires:	texlive-plain-doc
-Requires:	texlive-presentations-en
 Requires:	texlive-pstricks-examples-en
 Requires:	texlive-pstricks-tutorial
 Requires:	texlive-simplified-latex
@@ -85,3 +84,16 @@ TeXLive collection-documentation-english package.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813902
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780212
+- Update to latest release.
+- Import texlive-collection-documentation-english
+- Import texlive-collection-documentation-english
+
