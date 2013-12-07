@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-english
 Epoch:		1
 Version:	20121030
-Release:	2
+Release:	3
 Summary:	English documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
