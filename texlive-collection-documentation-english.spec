@@ -10,7 +10,7 @@ Version:	20121030
 Release:	12
 Summary:	English documentation
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-documentation-english.tar.xz
 BuildArch:	noarch
